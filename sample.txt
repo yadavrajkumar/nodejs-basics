@@ -1,0 +1,1 @@
+Apr 20, 2016 - Your firstLetter filter is missing an additional param. The first param input refers to the ... I'm trying to filter a list of people by the starting letter of their first name in an AngularJS repeater. The repeater is as follows:
